@@ -41,20 +41,32 @@ h1 {
 .tipo_h2{
   letter-spacing: 3px;  
 }
-.tipo_div{
+.tipo_div1{
+    background-color: rgb(85, 84, 170);
+    margin: 20px;
+    padding: 20px;
+    width: 60%;
+    text-align: center;
+    border:2px solid rgb(0, 0, 0); 
+    color: bisque;  
+}
+.tipo_div2{
     background-color: rgb(85, 84, 170);
     margin: 20px;
     padding: 20px;
     width: 60%;
     text-align: right;
     border:2px solid rgb(0, 0, 0); 
-    color: bisque;  
+    color: bisque; 
+    word-spacing: 5px; 
+
 }
 .cadetblue{
     color: cadetblue;
 }
 .black{
     color: rgb(0, 0, 0);
+}
 }
 .silver{
     color: silver;
