@@ -41,3 +41,21 @@ h1 {
 .tipo_h2{
   letter-spacing: 3px;  
 }
+.tipo_div{
+    background-color: rgb(85, 84, 170);
+    margin: 20px;
+    padding: 20px;
+    width: 60%;
+    text-align: right;
+    border:2px solid rgb(0, 0, 0); 
+    color: bisque;  
+}
+.cadetblue{
+    color: cadetblue;
+}
+.black{
+    color: rgb(0, 0, 0);
+}
+.silver{
+    color: silver;
+}
