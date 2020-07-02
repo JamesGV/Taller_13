@@ -22,7 +22,9 @@ h1 {
     padding: 20px;
     width: 60%;
     text-align: center;
-    border:2px solid rgb(100, 205, 159);
+    border: 2px solid rgb(100, 205, 159);
+    word-spacing: 20px;
+    letter-spacing: 3px;
 }
 
 .action-button-index3{
