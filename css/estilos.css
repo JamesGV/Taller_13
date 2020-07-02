@@ -30,16 +30,17 @@ h1 {
     background-color: #6648d3;
     border-radius: 10px;
     color: #ffffff;
-    margin:20px;
+    margin:10px;
+    display: block;
  }
 .action-button-index3:hover{
     padding: 15px;
     background-color: #2a9b9f;
     border-radius: 10px;
-    color: #ffffff;
+    color: #ffffff;   
 }
 .tipo_h2{
-  letter-spacing: 3px;  
+  letter-spacing: 3px; /*se aplica espaciamiento entre líneas*/ 
 }
 .tipo_div1{
     background-color: rgb(85, 84, 170);
@@ -83,4 +84,13 @@ h1 {
     width: 90%;
     /*text-align: center;*/
     border:2px solid rgb(0, 0, 0); 
+}
+.div_caja2{
+    background-color: rgb(211, 221, 226);
+    margin: 20px; /*se aplica margin*/
+    padding: 10px; /*se aplica padding*/
+    width: 20%;
+    /*text-align: center;*/
+    border:2px solid rgb(0, 0, 0); 
+    height: 200px;
 }
