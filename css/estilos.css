@@ -49,19 +49,21 @@ h1 {
     text-align: center;
     border:2px solid rgb(0, 0, 0); 
     color: bisque;  
+    
 }
 .tipo_div2{
     background-color: rgb(85, 84, 170);
-    margin: 20px; /*se aplica margin*/
+    margin: 15px; /*se aplica margin*/
     padding-left: 50px; /*se aplica padding*/
     padding-top: 2px;/*se aplica padding*/
     padding-right: 10px;/*se aplica padding*/
     padding-bottom: 2px;/*se aplica padding*/
-    width: 60%;
+    width: 20%;
     text-align: right;
     border:2px solid rgb(0, 0, 0); 
     color: bisque; 
     word-spacing: 5px; 
+    display: inline-block;/*se aplica inline-block*/
 
 }
 .cadetblue{
@@ -73,4 +75,12 @@ h1 {
 }
 .silver{
     color: silver;
+}
+.div_caja{
+    background-color: rgb(211, 221, 226);
+    /*margin: 20px; /*se aplica margin*/
+    padding: 10px; /*se aplica padding*/
+    width: 90%;
+    /*text-align: center;*/
+    border:2px solid rgb(0, 0, 0); 
 }
